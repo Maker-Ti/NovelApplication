@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="mainTxtColor">#353232</color>
+    <color name="txtRedColor">#F31B1B</color>
+    <color name="mainLayoutBC">#F1F1F1</color>
+    <color name="whiteBC">#fff</color>
+    <color name="grey">#DAD7D7</color>
+    <color name="mainContentBGC">#BBB5B5</color>
+    <color name="mainTxtHintColor">#8F8F8F</color>
+    <color name="headerColor">#474747</color>
+    <color name="blue">#7676DD</color>
+    <color name="white">#fff</color>
+    <color name="bcYellowColor">#DDF028</color>
+    <color name="blackText">#000000</color>
+    <color name="greyBC">#9fc4a4</color>
+</resources>
